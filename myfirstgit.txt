@@ -1,0 +1,8 @@
+Hello World!
+Hello Linux!
+Hello Git!
+Hello Shell!
+
+
+This is a try!
+This is a beginning!
